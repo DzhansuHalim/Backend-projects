@@ -9,7 +9,7 @@ This list of courses is a step-by-step explanation of C# and Angular
       <li>Arrays</li>
   
     </ul>
-2. <a href="https://github.com/DzhansuHalim/Software_Developer/tree/main/Course02/Course02"> Course02 </a>: Customer tracking in a bank (C#)
+2. <a href="https://github.com/DzhansuHalim/Software_Developer/tree/main/Course02/Course02"> Course02 </a>: <b> Customer tracking in a bank (C#) </b>
     <ul>
       <li>Class</li>
       <li>Methods and Parameters</li>
