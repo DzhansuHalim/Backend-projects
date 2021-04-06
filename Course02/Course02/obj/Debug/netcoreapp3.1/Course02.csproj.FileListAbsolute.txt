@@ -1,0 +1,13 @@
+C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course02\Course02\bin\Debug\netcoreapp3.1\Course02.exe
+C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course02\Course02\bin\Debug\netcoreapp3.1\Course02.deps.json
+C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course02\Course02\bin\Debug\netcoreapp3.1\Course02.runtimeconfig.json
+C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course02\Course02\bin\Debug\netcoreapp3.1\Course02.runtimeconfig.dev.json
+C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course02\Course02\bin\Debug\netcoreapp3.1\Course02.dll
+C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course02\Course02\bin\Debug\netcoreapp3.1\Course02.pdb
+C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course02\Course02\obj\Debug\netcoreapp3.1\Course02.csprojAssemblyReference.cache
+C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course02\Course02\obj\Debug\netcoreapp3.1\Course02.AssemblyInfoInputs.cache
+C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course02\Course02\obj\Debug\netcoreapp3.1\Course02.AssemblyInfo.cs
+C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course02\Course02\obj\Debug\netcoreapp3.1\Course02.csproj.CoreCompileInputs.cache
+C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course02\Course02\obj\Debug\netcoreapp3.1\Course02.dll
+C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course02\Course02\obj\Debug\netcoreapp3.1\Course02.pdb
+C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course02\Course02\obj\Debug\netcoreapp3.1\Course02.genruntimeconfig.cache
