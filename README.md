@@ -5,7 +5,7 @@ This list of courses is a step-by-step explanation of C# and Angular
     <ul>
       <li>Variables</li>
       <li>Conditional statement</li>
-      <li>Loops/li>
+      <li>Loops</li>
       <li>Arrays</li>
   
     </ul>
