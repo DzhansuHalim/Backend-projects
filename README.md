@@ -18,6 +18,6 @@ This list of courses is a step-by-step explanation of C# and Angular
  3. <a href="https://github.com/DzhansuHalim/Software_Developer/tree/main/Course03/Course03"> Course03 </a>: <b> Create a List<T> class (C#) </b>
     <ul>
       <li>Ref, Out, Params</li>
-      <li>Collections</li>
+      <li>Collections, Generics</li>
     </ul>
 
