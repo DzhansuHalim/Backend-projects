@@ -6,24 +6,33 @@ namespace Course03
 {
     public class MyList<T>
     {
-        T[] items;
+        T[] _items;
+        T[] _tempArray;
+
+        public  int Count
+        {
+            get { return _items.Length; }
+        }
+
 
         public MyList()
         {
-            items = new T[0];
+            _items = new T[0];
         }
 
         public void AddItem(T item)
         {
-            T[] tempArray = items;
-            items = new T[items.Length+1];
-            for (int i = 0; i < tempArray.Length; i++)
+            _tempArray = _items;
+            _items = new T[_items.Length+1];
+            for (int i = 0; i < _tempArray.Length; i++)
             {
-                items[i] = tempArray[i];
+                _items[i] = _tempArray[i];
             }
 
-            items[items.Length - 1] = item;
+            _items[_items.Length - 1] = item;
 
         }
+
+
     }
 }

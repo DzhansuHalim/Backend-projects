@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Course03
 {
@@ -33,6 +34,14 @@ namespace Course03
 
             MyList<string> myList = new MyList<string>();
             myList.AddItem("Tony");
+            Console.WriteLine(myList.Count);
+
+            MyDictionary<string, int> myDictionary = new MyDictionary<string, int>();
+            myDictionary.AddItem("Coni", 23);
+            myDictionary.AddItem("Tomy", 40);
+            myDictionary.GetItems();
+            Console.WriteLine(" Count items: " + myDictionary.Count);
+
             
         }
     }
