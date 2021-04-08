@@ -1,0 +1,13 @@
+C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course04\GamerProject\bin\Debug\netcoreapp3.1\GamerProject.exe
+C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course04\GamerProject\bin\Debug\netcoreapp3.1\GamerProject.deps.json
+C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course04\GamerProject\bin\Debug\netcoreapp3.1\GamerProject.runtimeconfig.json
+C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course04\GamerProject\bin\Debug\netcoreapp3.1\GamerProject.runtimeconfig.dev.json
+C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course04\GamerProject\bin\Debug\netcoreapp3.1\GamerProject.dll
+C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course04\GamerProject\bin\Debug\netcoreapp3.1\GamerProject.pdb
+C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course04\GamerProject\obj\Debug\netcoreapp3.1\GamerProject.csprojAssemblyReference.cache
+C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course04\GamerProject\obj\Debug\netcoreapp3.1\GamerProject.AssemblyInfoInputs.cache
+C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course04\GamerProject\obj\Debug\netcoreapp3.1\GamerProject.AssemblyInfo.cs
+C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course04\GamerProject\obj\Debug\netcoreapp3.1\GamerProject.csproj.CoreCompileInputs.cache
+C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course04\GamerProject\obj\Debug\netcoreapp3.1\GamerProject.dll
+C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course04\GamerProject\obj\Debug\netcoreapp3.1\GamerProject.pdb
+C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course04\GamerProject\obj\Debug\netcoreapp3.1\GamerProject.genruntimeconfig.cache
