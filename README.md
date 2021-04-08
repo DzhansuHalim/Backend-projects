@@ -21,7 +21,7 @@ This list of courses is a step-by-step explanation of C# and Angular
       <li>Collections, Generics</li>
     </ul>
 
- 4. <a href="https://github.com/DzhansuHalim/Software_Developer/tree/main/Course04"> Course04 </a>: <b> Create a project about the credit manager in the bank. (OOP2 + OOP3 C#) </b>
+ 4. <a href="https://github.com/DzhansuHalim/Software_Developer/tree/main/Course04"> Course04 </a>: <b> Manage types of loans in the bank (OOP2 + OOP3 C#) </b>
     <ul>
       <li>Inheritance</li>
       <li>Interface</li>
