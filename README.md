@@ -15,9 +15,9 @@ This list of courses is a step-by-step explanation of C# and Angular
       <li>Methods and Parameters</li>
     </ul>
     
- 3. <a href="https://github.com/DzhansuHalim/Software_Developer/tree/main/Course03/Course03"> Course03 </a>: <b> Create a List<T> class (C#) </b>
+ 3. <a href="https://github.com/DzhansuHalim/Software_Developer/tree/main/Course03/Course03"> Course03 </a>: <b> Object Oriented Programming (OOP1 C#) </b>
     <ul>
       <li>Ref, Out, Params</li>
-      <li>Collections</li>
+      <li>Collections, Generics</li>
     </ul>
 
