@@ -27,3 +27,9 @@ This list of courses is a step-by-step explanation of C# and Angular
       <li>Interface</li>
       <li>Dependency Injection</li> 
     </ul>
+
+ 5. <a href="https://github.com/DzhansuHalim/Software_Developer/tree/main/Course05"> Course05 </a>: <b> SQL </b>
+    <ul>
+      <li>PK, FK, UK...</li>
+      <li>Select, From, Where...</li>
+    </ul>
