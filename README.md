@@ -33,3 +33,11 @@ This list of courses is a step-by-step explanation of C# and Angular
       <li>PK, FK, UK...</li>
       <li>Select, From, Where...</li>
     </ul>
+    
+  6. <a href="https://github.com/DzhansuHalim/Software_Developer/tree/main/Course06"> Step06 </a>: <b> CRUD Products (C#) </b>
+    <ul>
+      <li>Entities</li>
+      <li>Data Access Layer</li>
+      <li>Business Layer</li>
+      <li>ConsoleUI</li>
+    </ul>
