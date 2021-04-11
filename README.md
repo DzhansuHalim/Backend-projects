@@ -52,4 +52,3 @@ This list of courses is a step-by-step explanation of C# and Angular
       <li>LINQ</li>
       <li>Entity Framework</li>
     </ul>
-     
