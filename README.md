@@ -34,11 +34,21 @@ This list of courses is a step-by-step explanation of C# and Angular
       <li>Select, From, Where...</li>
     </ul>
     
-  6. <a href="https://github.com/DzhansuHalim/Software_Developer/tree/main/Course06"> Step06 </a>: <b> CRUD Products (C#) </b>
+  6. <a href="https://github.com/DzhansuHalim/Software_Developer/tree/main/Course06"> Step06 </a>: <b> CRUD Products in memory (C#) </b>
     <ul>
       <li>Entities</li>
       <li>Data Access Layer</li>
       <li>Business Layer</li>
       <li>ConsoleUI</li>
       <li>LINQ</li>
+     </ul>
+     
+   7. <a href="https://github.com/DzhansuHalim/Software_Developer/tree/main/Course07"> Step07 </a>: <b> CRUD Products Entity Framework (C#) </b>
+    <ul>
+      <li>Entities</li>
+      <li>Data Access Layer</li>
+      <li>Business Layer</li>
+      <li>ConsoleUI</li>
+      <li>LINQ</li>
+      <li>Entity Framework</li>
      </ul>
