@@ -1,4 +1,4 @@
-# Software Developer
+# C# and Angular
 This list of courses is a step-by-step explanation of C# and Angular
 
 1. <a href="https://github.com/DzhansuHalim/Software_Developer/tree/main/Course01/Course01"> Step01 </a>: <b> Shopping cart (C#) </b>
