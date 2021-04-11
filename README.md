@@ -50,5 +50,4 @@ This list of courses is a step-by-step explanation of C# and Angular
       <li>Business Layer</li>
       <li>ConsoleUI</li>
       <li>LINQ</li>
-      <li>Entity Framework</li>
-    
+      <li>Entity Framework</li></ul>
