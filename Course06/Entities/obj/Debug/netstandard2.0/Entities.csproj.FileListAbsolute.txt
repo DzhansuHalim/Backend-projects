@@ -7,3 +7,6 @@ C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course06\Entities\ob
 C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course06\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
 C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course06\Entities\obj\Debug\netstandard2.0\Entities.dll
 C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course06\Entities\obj\Debug\netstandard2.0\Entities.pdb
+C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course06\Entities\bin\Debug\netstandard2.0\Core.dll
+C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course06\Entities\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course06\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete

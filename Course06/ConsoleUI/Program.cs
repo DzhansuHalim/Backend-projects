@@ -11,29 +11,41 @@ namespace ConsoleUI
         //Open Closed Principle
         static void Main(string[] args)
         {
+            GetProducts();
+            //GetCustomers(); 
+            //GetCategories(); 
 
-            //GetProducts
-            Console.WriteLine(" \n ===================== Products ===================== \n");
-            ProductManager productManager = new ProductManager(new EfProductDal());
-            foreach (var product in productManager.GetByUnitPrice(10, 100))
-            {
-                Console.WriteLine(product.ProductName);
-            }
+        }
 
-
-            //GetCustomers
-            Console.WriteLine("\n ===================== Customers ===================== \n");
-            CustomerManager customerManager = new CustomerManager(new EfCustomerDal());
-            Console.WriteLine(customerManager.GetCustomerById("FOLKO").ContactName.ToString());
-
-
-
+        private static void GetCategories()
+        {
             //GetCategories
             Console.WriteLine("\n ===================== Categories ===================== \n");
             CategoryManager categoryManager = new CategoryManager(new EfCategoryDal());
             Console.WriteLine(categoryManager.GetCategoryById(1).CategoryName.ToString());
+        }
 
+        private static void GetCustomers()
+        {
+            Console.WriteLine("\n ===================== Customers ===================== \n");
+            CustomerManager customerManager = new CustomerManager(new EfCustomerDal());
+            Console.WriteLine(customerManager.GetCustomerById("FOLKO").ContactName.ToString());
+        }
 
+        private static void GetProducts()
+        {
+            Console.WriteLine(" \n ===================== Products ===================== \n");
+            ProductManager productManager = new ProductManager(new EfProductDal());
+            
+            //foreach (var product in productManager.GetByUnitPrice(10, 100))
+            //{
+            //    Console.WriteLine(product.ProductName);
+            //}
+
+            foreach (var product in productManager.GetProductDetails())
+            {
+                Console.WriteLine(product.ProductName + " / " + product.CategoryName);
+            }
         }
     }
 }

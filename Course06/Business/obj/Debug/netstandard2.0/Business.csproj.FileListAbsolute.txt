@@ -12,3 +12,5 @@ C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course06\Business\ob
 C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course06\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
 C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course06\Business\obj\Debug\netstandard2.0\Business.dll
 C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course06\Business\obj\Debug\netstandard2.0\Business.pdb
+C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course06\Business\bin\Debug\netstandard2.0\Core.dll
+C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course06\Business\bin\Debug\netstandard2.0\Core.pdb
