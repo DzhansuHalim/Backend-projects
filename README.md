@@ -43,11 +43,13 @@ This list of courses is a step-by-step explanation of C# and Angular
       <li>LINQ</li>
      </ul>
      
-   7. <a href="https://github.com/DzhansuHalim/Software_Developer/tree/main/Course07"> Step07 </a>: <b> CRUD Products Entity Framework (C#) </b>
+   7. <a href="https://github.com/DzhansuHalim/Software_Developer/tree/main/Course07"> Step07 + Step08 </a>: <b> CRUD Products Entity Framework + DTO (C#) </b>
     <ul>
       <li>Entities</li>
       <li>Data Access Layer</li>
       <li>Business Layer</li>
       <li>ConsoleUI</li>
       <li>LINQ</li>
+      <li>Core</li>
       <li>Entity Framework</li></ul>
+      
