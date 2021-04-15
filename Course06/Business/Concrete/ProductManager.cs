@@ -22,11 +22,11 @@ namespace Business.Concrete
 
         public IResult Add(Product product)
         {
-            //business codes
-            if(product.ProductName.Length < 4)
+           // business codes
+            if (product.ProductName.Length < 1)
             {
                 //magic strings
-                return new ErrorResult(Messages.InvalidProductName); 
+                return new ErrorResult(Messages.InvalidProductName);
             }
             _productDal.Create(product);
 
@@ -36,7 +36,7 @@ namespace Business.Concrete
         public IDataResult<List<Product>> GetAll()
         {
             // verification code
-            if(DateTime.Now.Hour == 13)
+            if (DateTime.Now.Hour == 13)
             {
                 return new ErrorDataResult<List<Product>>(Messages.MaintenanceTime);
             }
