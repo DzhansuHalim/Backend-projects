@@ -33,6 +33,7 @@ namespace WebAPI.Controllers
             return BadRequest(result.Message);
         }
 
+
         [HttpGet ("getbyid")]
         public IActionResult GetById(int id)
         {
@@ -44,6 +45,7 @@ namespace WebAPI.Controllers
             return BadRequest(result.Message);
         }
 
+
         [HttpPost ("add")] 
         public IActionResult Add(Product product)
         {
@@ -54,5 +56,7 @@ namespace WebAPI.Controllers
             }
             return BadRequest(result);
         }
+
+
     }
 }
