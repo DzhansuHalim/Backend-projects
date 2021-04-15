@@ -1,7 +1,7 @@
 # C#
 This list of courses is a step-by-step explanation of backend programming in c#
 
-1. <a href="https://github.com/DzhansuHalim/Software_Developer/tree/main/Course01/Course01"> Step01 </a>: <b> Shopping cart (C#) </b>
+1. <a href="https://github.com/DzhansuHalim/Software_Developer/tree/main/Course01/Course01"> Exercise01 </a>: <b> Shopping cart (C#) </b>
     <ul>
       <li>Variables</li>
       <li>Conditional statement</li>
@@ -9,32 +9,32 @@ This list of courses is a step-by-step explanation of backend programming in c#
       <li>Arrays</li>
   
     </ul>
-2. <a href="https://github.com/DzhansuHalim/Software_Developer/tree/main/Course02/Course02"> Step02 </a>: <b> Customer tracking in a bank (C#) </b>
+2. <a href="https://github.com/DzhansuHalim/Software_Developer/tree/main/Course02/Course02"> Exercises02 </a>: <b> Customer tracking in a bank (C#) </b>
     <ul>
       <li>Class</li>
       <li>Methods and Parameters</li>
     </ul>
     
- 3. <a href="https://github.com/DzhansuHalim/Software_Developer/tree/main/Course03/Course03"> Step03 </a>: <b> Create List of accounts (OOP1 C#) </b>
+ 3. <a href="https://github.com/DzhansuHalim/Software_Developer/tree/main/Course03/Course03"> Exercise03 </a>: <b> Create List of accounts (OOP1 C#) </b>
     <ul>
       <li>Ref, Out, Params</li>
       <li>Collections, Generics</li>
     </ul>
 
- 4. <a href="https://github.com/DzhansuHalim/Software_Developer/tree/main/Course04"> Step04 </a>: <b> Manage types of loans in the bank (OOP2 + OOP3 C#) </b>
+ 4. <a href="https://github.com/DzhansuHalim/Software_Developer/tree/main/Course04"> Exercise04 </a>: <b> Manage types of loans in the bank (OOP2 + OOP3 C#) </b>
     <ul>
       <li>Inheritance</li>
       <li>Interface</li>
       <li>Dependency Injection</li> 
     </ul>
 
- 5. <a href="https://github.com/DzhansuHalim/Software_Developer/tree/main/Course05"> Step05 </a>: <b> SQL </b>
+ 5. <a href="https://github.com/DzhansuHalim/Software_Developer/tree/main/Course05"> Exercise05 </a>: <b> SQL </b>
     <ul>
       <li>PK, FK, UK...</li>
       <li>Select, From, Where...</li>
     </ul>
     
-  6. <a href="https://github.com/DzhansuHalim/Software_Developer/tree/main/Course06"> Step06 </a>: <b> CRUD Products in memory (C#) </b>
+  6. <a href="https://github.com/DzhansuHalim/Software_Developer/tree/main/Course06"> Exercise06 </a>: <b> CRUD Products in memory (C#) </b>
     <ul>
       <li>Entities</li>
       <li>Data Access Layer</li>
@@ -43,7 +43,7 @@ This list of courses is a step-by-step explanation of backend programming in c#
       <li>LINQ</li>
      </ul>
      
-   7. <a href="https://github.com/DzhansuHalim/Software_Developer/tree/main/Course07"> Step07 + Step08 </a>: <b> CRUD Products Entity Framework + DTO + API(C#) </b>
+   7. <a href="https://github.com/DzhansuHalim/Software_Developer/tree/main/Course07"> Exercises07 </a>: <b> CRUD Products Entity Framework + DTO + API(C#) </b>
     <ul>
       <li>Entities</li>
       <li>Data Access Layer</li>
