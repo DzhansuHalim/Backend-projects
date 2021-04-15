@@ -43,7 +43,7 @@ This list of courses is a step-by-step explanation of backend programming in c#
       <li>LINQ</li>
      </ul>
      
-   7. <a href="https://github.com/DzhansuHalim/Software_Developer/tree/main/Course07"> Exercise 07 </a>: <b> CRUD Products Entity Framework + DTO + API(C#) </b>
+   7. <a href="https://github.com/DzhansuHalim/Software_Developer/tree/main/Course07"> Exercise 07 </a>: <b> CRUD Products Entity Framework + DTO + API (C#) </b>
     <ul>
       <li>Entities</li>
       <li>Data Access Layer</li>
