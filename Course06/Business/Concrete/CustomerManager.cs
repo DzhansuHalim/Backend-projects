@@ -1,4 +1,6 @@
 ﻿using Business.Abstract;
+using Core.Utilities.Results.Abstract;
+using Core.Utilities.Results.Concrete;
 using DataAccess.Abstract;
 using Entities.Concrete;
 using System;
@@ -16,14 +18,14 @@ namespace Business.Concrete
             _customerDal = customerDal;
         }
 
-        public List<Customer> GetAll()
+        public IDataResult<List<Customer>> GetAll()
         {
-            return _customerDal.GetAll();
+            return new SuccessDataResult<List<Customer>>( _customerDal.GetAll());
         }
 
-        public Customer GetCustomerById(string id)
+        public IDataResult<Customer> GetCustomerById(string id)
         {
-            return _customerDal.Get(p => p.CustomerId == id);
+            return new SuccessDataResult<Customer>(_customerDal.Get(p => p.CustomerId == id));
         }
     }
 }

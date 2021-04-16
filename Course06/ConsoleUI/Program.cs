@@ -1,4 +1,5 @@
-﻿using Business.Concrete;
+﻿using Business.Abstract;
+using Business.Concrete;
 using DataAccess.Concrete.EntityFramework;
 using DataAccess.Concrete.InMemory;
 using System;
@@ -22,20 +23,20 @@ namespace ConsoleUI
             //GetCategories
             Console.WriteLine("\n ===================== Categories ===================== \n");
             CategoryManager categoryManager = new CategoryManager(new EfCategoryDal());
-            Console.WriteLine(categoryManager.GetCategoryById(1).CategoryName.ToString());
+            //Console.WriteLine(categoryManager.GetCategoryById(1).CategoryName.ToString());
         }
 
         private static void GetCustomers()
         {
             Console.WriteLine("\n ===================== Customers ===================== \n");
             CustomerManager customerManager = new CustomerManager(new EfCustomerDal());
-            Console.WriteLine(customerManager.GetCustomerById("FOLKO").ContactName.ToString());
+            //Console.WriteLine(customerManager.GetCustomerById("FOLKO").ContactName.ToString());
         }
 
         private static void GetProducts()
         {
             Console.WriteLine(" \n ===================== Products ===================== \n");
-            ProductManager productManager = new ProductManager(new EfProductDal());
+            ProductManager productManager = new ProductManager(new EfProductDal(), new CategoryManager(new EfCategoryDal()));
 
             //foreach (var product in productManager.GetByUnitPrice(10, 100))
             //{
