@@ -66,3 +66,4 @@ C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course07\WebAPI\bin\
 C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course07\WebAPI\bin\Debug\net5.0\Autofac.Extras.DynamicProxy.dll
 C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course07\WebAPI\bin\Debug\net5.0\Castle.Core.dll
 C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course07\WebAPI\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\dzhan\OneDrive\Documents\GitHub\Software_Developer\Course07\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
