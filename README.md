@@ -53,13 +53,13 @@ This list of courses is a step-by-step explanation of backend programming in c#
       <li>Core</li>
       <li>WebAPI</li>
       <li>Entity Framework</li></ul>
-      7.1. <b>Security (User registration and login)</b>
+        <b>Security (User registration and login)</b>
         <ul>
             <li>Encryption </li>
             <li>Hashing </li>
             <li>JWT</li>    
-        </ul>
-    7.2. <b>Aspects (Autofac)</b>
+        </ul>    
+        <b>Aspects (Autofac)</b>
         <ul>
             <li>Caching</li>
             <li>Performance</li>
