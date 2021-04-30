@@ -52,7 +52,8 @@ This list of courses is a step-by-step explanation of backend programming in c#
       <li>LINQ</li>
       <li>Core</li>
       <li>WebAPI</li>
-      <li>Entity Framework</li></ul>
+      <li>Entity Framework</li>
+    </ul>
         <b>Security (User registration and login)</b>
         <ul>
             <li>Encryption </li>
@@ -66,7 +67,7 @@ This list of courses is a step-by-step explanation of backend programming in c#
             <li>Transaction</li>
             <li>Validation</li>   
         </ul>
-      
+   8. <a href="https://github.com/DzhansuHalim/FrontendBackendNetCore/tree/main/kamp-frontend/northwind"><b>Frontend Angular</b></a>
       
       
   
