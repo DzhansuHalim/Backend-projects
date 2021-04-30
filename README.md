@@ -1,4 +1,4 @@
-# C#
+# C# and Angular
 This list of courses is a step-by-step explanation of backend programming in c#
 
 1. <a href="https://github.com/DzhansuHalim/Software_Developer/tree/main/Course01/Course01"> Exercise 01 </a>: <b> Shopping cart (C#) </b>
@@ -53,4 +53,8 @@ This list of courses is a step-by-step explanation of backend programming in c#
       <li>Core</li>
       <li>WebAPI</li>
       <li>Entity Framework</li></ul>
+      
+      
+      
+  
       
