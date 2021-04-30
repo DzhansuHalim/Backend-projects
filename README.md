@@ -59,7 +59,6 @@ This list of courses is a step-by-step explanation of backend programming in c#
             <li>Hashing </li>
             <li>JWT</li>    
         </ul>
-    
     7.2. <b>Aspects (Autofac)</b>
         <ul>
             <li>Caching</li>
