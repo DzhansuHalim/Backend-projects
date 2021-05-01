@@ -1,8 +1,5 @@
 
-Angular 
-=> Reference
-==> CLI Command Reference
-===> Overview
+=> ng serve --open
+=> npm install => if you want to open an exist project from github
+=> ng g component name => to create component
 
-====>ng serve --open
-====> if you want to open an exist project from github ==> npm install

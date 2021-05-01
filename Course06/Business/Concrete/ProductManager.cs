@@ -44,7 +44,7 @@ namespace Business.Concrete
                 return result;
             }
 
-            _productDal.Create(product) ;
+            _productDal.Create(product);
             return new SuccessResult(Messages.ProductAdded);
 
         }
@@ -52,12 +52,12 @@ namespace Business.Concrete
         public IDataResult<List<Product>> GetAll()
         {
             // verification code
-            if (DateTime.Now.Hour == 13)
+            if (DateTime.Now.Hour == 10)
             {
                 return new ErrorDataResult<List<Product>>(Messages.MaintenanceTime);
             }
-
-            return new SuccessDataResult<List<Product>>( _productDal.GetAll(),Messages.ProductsListed);
+            
+            return new SuccessDataResult<List<Product>>(_productDal.GetAll(), Messages.ProductsListed);
         }
 
         public IDataResult<List<Product>> GetAllByCategory(int id)
