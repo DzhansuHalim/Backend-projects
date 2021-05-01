@@ -16,6 +16,7 @@ import { ProductService } from 'src/app/services/product.service';
 export class ProductComponent implements OnInit {
 
   products:Product[] = [];
+  
   dataLoaded = false;
 
   constructor(private producService : ProductService) { }

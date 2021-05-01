@@ -1,5 +1,5 @@
 
 => ng serve --open
-=> npm install => if you want to open an exist project from github
+=> npm install ... => if you want to open an exist project from github
 => ng g component name => to create component
 
