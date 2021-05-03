@@ -1,0 +1,14 @@
+
+  <ul *ngIf="cartItems.length>0"  class="list-group">
+    <li class="list-group-item active" routerLink = "/products">Items in the cart</li>
+    <li class="list-group-item" *ngFor = "let cartItem of cartItems">
+      <span class="badge bg-secondary">{{cartItem.quantity}}</span>
+      {{cartItem.product.productName}}<span (click)="removeFromCart(cartItem.product)" class="badge bg-secondary">Delete</span></li>
+    <li class="list-group-item"><a class="dropdown-item" href="#">Go to the cart</a></li>
+  </ul>  
+
+
+
+
+
+  
