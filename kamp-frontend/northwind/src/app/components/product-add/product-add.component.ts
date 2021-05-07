@@ -23,7 +23,7 @@ export class ProductAddComponent implements OnInit {
       unitPrice:["", Validators.required],
       unitsInStock:["", Validators.required],
       categoryId: ["", Validators.required]
-    })
+    }) 
   }
 
   add(){
