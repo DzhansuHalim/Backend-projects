@@ -7,7 +7,7 @@ import { TokenModel } from '../models/tokenModel';
 @Injectable({
   providedIn: 'root'
 })
-export class AuthService {
+export class AuthService { 
 
   apiUrl = "https://localhost:44301/api/auth/";
 
