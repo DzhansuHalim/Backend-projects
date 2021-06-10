@@ -1,5 +1,5 @@
-# C# and Angular
-This list of courses is a step-by-step explanation of backend programming in c#
+# .Net Core and Angular
+This list of courses is a step-by-step explanation of backend programming in .Net Core
 
 1. <a href="https://github.com/DzhansuHalim/Software_Developer/tree/main/Course01/Course01"> Exercise 01 </a>: <b> Shopping cart (C#) </b>
     <ul>
